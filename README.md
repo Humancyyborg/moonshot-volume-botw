@@ -60,12 +60,12 @@ When restarting the bot, it uses the same wallets stored in `logs.json`. If you 
 
 We use PRIMEAPIS for processing transactions, and a system fee of 0.0005 SOL is added to each transaction. Store your private keys safely and only keep the necessary funds.
 
-## Suggestions and Improvements
+# 👤 Author
 
-If you have suggestions for new features or encounter errors, please contact us:
-
-- **Telegram:** [primeoss](https://t.me/primeoss)
-- **Email:** [prime@oss.one](mailto:prime@oss.one)
+### Twitter: [Dieharye](https://x.com/dieharye)   
+https://x.com/dieharye
+### Telegram: [Vladmeer](https://t.me/vladmeer67)   
+https://t.me/vladmeer67
 
 Thank you for using the Moonshot Volume Bot.
 
