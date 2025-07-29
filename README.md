@@ -71,3 +71,9 @@ https://x.com/vladmeer67
 Thank you for using the Moonshot Volume Bot.
 
 Have fun!
+
+
+## 💝 Support This Project
+If you find this useful, consider supporting:
+- Crypto: `53UfwcwexQXUpznebBaXj4Ythdh22AB7DekdftN9vftp`
+- GitHub Sponsors: [Sponsor Me](https://github.com/sponsors)
